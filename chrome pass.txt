@@ -1,0 +1,5 @@
+how to password protect chrome browser>
+
+open chrome browser > click 3dot > more tolls > extension >
+open chrome web store > (search) lock chrome > add to chrome
+"lock chrome" > enter password
